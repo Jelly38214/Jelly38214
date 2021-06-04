@@ -1,4 +1,6 @@
-### Hi there 👋
+A Cat keeper who has a cat named Orange and is not a single is a front-end development.
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jelly38214&show_icons=true&theme=tokyonight)
 
 <!--
 **Jelly38214/Jelly38214** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
